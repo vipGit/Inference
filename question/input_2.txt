@@ -1,0 +1,13 @@
+2
+A(Bob)
+A(John)
+9
+B(x,y) ^ C(y,z) ^ D(z,x) => A(x)
+B(Bob,Alice)
+B(Bob,John)
+B(John,Tim)
+C(Alice,Dick)
+C(Tim,Bob)
+D(Alice,Bob)
+D(Dick,Bob)
+D(Bob,Tim)
